@@ -1,0 +1,7 @@
+E:\Coforge\Day-6\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.exe.config
+E:\Coforge\Day-6\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.exe
+E:\Coforge\Day-6\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.pdb
+E:\Coforge\Day-6\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.AssemblyReference.cache
+E:\Coforge\Day-6\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-6\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.exe
+E:\Coforge\Day-6\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.pdb

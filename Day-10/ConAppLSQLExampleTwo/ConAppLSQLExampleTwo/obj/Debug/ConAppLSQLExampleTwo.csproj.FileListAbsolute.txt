@@ -1,0 +1,7 @@
+E:\Coforge\Day-10\ConAppLSQLExampleTwo\ConAppLSQLExampleTwo\bin\Debug\ConAppLSQLExampleTwo.exe.config
+E:\Coforge\Day-10\ConAppLSQLExampleTwo\ConAppLSQLExampleTwo\bin\Debug\ConAppLSQLExampleTwo.exe
+E:\Coforge\Day-10\ConAppLSQLExampleTwo\ConAppLSQLExampleTwo\bin\Debug\ConAppLSQLExampleTwo.pdb
+E:\Coforge\Day-10\ConAppLSQLExampleTwo\ConAppLSQLExampleTwo\obj\Debug\ConAppLSQLExampleTwo.csproj.AssemblyReference.cache
+E:\Coforge\Day-10\ConAppLSQLExampleTwo\ConAppLSQLExampleTwo\obj\Debug\ConAppLSQLExampleTwo.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-10\ConAppLSQLExampleTwo\ConAppLSQLExampleTwo\obj\Debug\ConAppLSQLExampleTwo.exe
+E:\Coforge\Day-10\ConAppLSQLExampleTwo\ConAppLSQLExampleTwo\obj\Debug\ConAppLSQLExampleTwo.pdb

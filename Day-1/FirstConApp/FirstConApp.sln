@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstConApp", "FirstConApp\FirstConApp.csproj", "{7E85FB7F-CE1B-4FE7-AEC5-616673131F0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E85FB7F-CE1B-4FE7-AEC5-616673131F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E85FB7F-CE1B-4FE7-AEC5-616673131F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E85FB7F-CE1B-4FE7-AEC5-616673131F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E85FB7F-CE1B-4FE7-AEC5-616673131F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ABACD5E-542D-46C3-8780-023F702C0F09}
+	EndGlobalSection
+EndGlobal

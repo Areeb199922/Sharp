@@ -1,0 +1,7 @@
+E:\Coforge\Day-7\ConsoleAppCollection\ConsoleAppCollection\bin\Debug\ConsoleAppCollection.exe.config
+E:\Coforge\Day-7\ConsoleAppCollection\ConsoleAppCollection\bin\Debug\ConsoleAppCollection.exe
+E:\Coforge\Day-7\ConsoleAppCollection\ConsoleAppCollection\bin\Debug\ConsoleAppCollection.pdb
+E:\Coforge\Day-7\ConsoleAppCollection\ConsoleAppCollection\obj\Debug\ConsoleAppCollection.csproj.AssemblyReference.cache
+E:\Coforge\Day-7\ConsoleAppCollection\ConsoleAppCollection\obj\Debug\ConsoleAppCollection.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-7\ConsoleAppCollection\ConsoleAppCollection\obj\Debug\ConsoleAppCollection.exe
+E:\Coforge\Day-7\ConsoleAppCollection\ConsoleAppCollection\obj\Debug\ConsoleAppCollection.pdb

@@ -1,0 +1,7 @@
+E:\Coforge\Day-9\ConsoleAppInsertEx\ConsoleAppInsertEx\bin\Debug\ConsoleAppInsertEx.exe.config
+E:\Coforge\Day-9\ConsoleAppInsertEx\ConsoleAppInsertEx\bin\Debug\ConsoleAppInsertEx.exe
+E:\Coforge\Day-9\ConsoleAppInsertEx\ConsoleAppInsertEx\bin\Debug\ConsoleAppInsertEx.pdb
+E:\Coforge\Day-9\ConsoleAppInsertEx\ConsoleAppInsertEx\obj\Debug\ConsoleAppInsertEx.csproj.AssemblyReference.cache
+E:\Coforge\Day-9\ConsoleAppInsertEx\ConsoleAppInsertEx\obj\Debug\ConsoleAppInsertEx.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-9\ConsoleAppInsertEx\ConsoleAppInsertEx\obj\Debug\ConsoleAppInsertEx.exe
+E:\Coforge\Day-9\ConsoleAppInsertEx\ConsoleAppInsertEx\obj\Debug\ConsoleAppInsertEx.pdb

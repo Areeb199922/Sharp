@@ -1,0 +1,7 @@
+E:\Coforge\Day-4\ConsoleApp42\ConsoleApp42\bin\Debug\ConsoleApp42.exe.config
+E:\Coforge\Day-4\ConsoleApp42\ConsoleApp42\bin\Debug\ConsoleApp42.exe
+E:\Coforge\Day-4\ConsoleApp42\ConsoleApp42\bin\Debug\ConsoleApp42.pdb
+E:\Coforge\Day-4\ConsoleApp42\ConsoleApp42\obj\Debug\ConsoleApp42.csproj.AssemblyReference.cache
+E:\Coforge\Day-4\ConsoleApp42\ConsoleApp42\obj\Debug\ConsoleApp42.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-4\ConsoleApp42\ConsoleApp42\obj\Debug\ConsoleApp42.exe
+E:\Coforge\Day-4\ConsoleApp42\ConsoleApp42\obj\Debug\ConsoleApp42.pdb

@@ -1,0 +1,7 @@
+E:\Coforge\Day-8\GenericExcerciseProduct\GenericExcerciseProduct\bin\Debug\GenericExcerciseProduct.exe.config
+E:\Coforge\Day-8\GenericExcerciseProduct\GenericExcerciseProduct\bin\Debug\GenericExcerciseProduct.exe
+E:\Coforge\Day-8\GenericExcerciseProduct\GenericExcerciseProduct\bin\Debug\GenericExcerciseProduct.pdb
+E:\Coforge\Day-8\GenericExcerciseProduct\GenericExcerciseProduct\obj\Debug\GenericExcerciseProduct.csproj.AssemblyReference.cache
+E:\Coforge\Day-8\GenericExcerciseProduct\GenericExcerciseProduct\obj\Debug\GenericExcerciseProduct.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-8\GenericExcerciseProduct\GenericExcerciseProduct\obj\Debug\GenericExcerciseProduct.exe
+E:\Coforge\Day-8\GenericExcerciseProduct\GenericExcerciseProduct\obj\Debug\GenericExcerciseProduct.pdb

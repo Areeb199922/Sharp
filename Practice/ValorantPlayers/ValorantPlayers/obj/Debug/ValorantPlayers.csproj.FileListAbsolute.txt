@@ -1,0 +1,12 @@
+E:\Coforge\Practice\ValorantPlayers\ValorantPlayers\bin\Debug\ValorantPlayers.exe.config
+E:\Coforge\Practice\ValorantPlayers\ValorantPlayers\bin\Debug\ValorantPlayers.exe
+E:\Coforge\Practice\ValorantPlayers\ValorantPlayers\bin\Debug\ValorantPlayers.pdb
+E:\Coforge\Practice\ValorantPlayers\ValorantPlayers\bin\Debug\EntityFramework.dll
+E:\Coforge\Practice\ValorantPlayers\ValorantPlayers\bin\Debug\EntityFramework.SqlServer.dll
+E:\Coforge\Practice\ValorantPlayers\ValorantPlayers\bin\Debug\EntityFramework.xml
+E:\Coforge\Practice\ValorantPlayers\ValorantPlayers\bin\Debug\EntityFramework.SqlServer.xml
+E:\Coforge\Practice\ValorantPlayers\ValorantPlayers\obj\Debug\ValorantPlayers.csproj.AssemblyReference.cache
+E:\Coforge\Practice\ValorantPlayers\ValorantPlayers\obj\Debug\ValorantPlayers.csproj.CoreCompileInputs.cache
+E:\Coforge\Practice\ValorantPlayers\ValorantPlayers\obj\Debug\ValorantPlayers.csproj.CopyComplete
+E:\Coforge\Practice\ValorantPlayers\ValorantPlayers\obj\Debug\ValorantPlayers.exe
+E:\Coforge\Practice\ValorantPlayers\ValorantPlayers\obj\Debug\ValorantPlayers.pdb

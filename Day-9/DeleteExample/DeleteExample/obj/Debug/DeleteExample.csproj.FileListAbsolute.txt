@@ -1,0 +1,7 @@
+E:\Coforge\Day-9\DeleteExample\DeleteExample\bin\Debug\DeleteExample.exe.config
+E:\Coforge\Day-9\DeleteExample\DeleteExample\bin\Debug\DeleteExample.exe
+E:\Coforge\Day-9\DeleteExample\DeleteExample\bin\Debug\DeleteExample.pdb
+E:\Coforge\Day-9\DeleteExample\DeleteExample\obj\Debug\DeleteExample.csproj.AssemblyReference.cache
+E:\Coforge\Day-9\DeleteExample\DeleteExample\obj\Debug\DeleteExample.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-9\DeleteExample\DeleteExample\obj\Debug\DeleteExample.exe
+E:\Coforge\Day-9\DeleteExample\DeleteExample\obj\Debug\DeleteExample.pdb

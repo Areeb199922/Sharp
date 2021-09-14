@@ -1,0 +1,10 @@
+E:\Coforge\Day-7\AreaOfShapes\AreaOfShapes\bin\Debug\AreaOfShapes.exe.config
+E:\Coforge\Day-7\AreaOfShapes\AreaOfShapes\bin\Debug\AreaOfShapes.exe
+E:\Coforge\Day-7\AreaOfShapes\AreaOfShapes\bin\Debug\AreaOfShapes.pdb
+E:\Coforge\Day-7\AreaOfShapes\AreaOfShapes\bin\Debug\AreaCalLib.dll
+E:\Coforge\Day-7\AreaOfShapes\AreaOfShapes\bin\Debug\AreaCalLib.pdb
+E:\Coforge\Day-7\AreaOfShapes\AreaOfShapes\obj\Debug\AreaOfShapes.csproj.AssemblyReference.cache
+E:\Coforge\Day-7\AreaOfShapes\AreaOfShapes\obj\Debug\AreaOfShapes.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-7\AreaOfShapes\AreaOfShapes\obj\Debug\AreaOfShapes.csproj.CopyComplete
+E:\Coforge\Day-7\AreaOfShapes\AreaOfShapes\obj\Debug\AreaOfShapes.exe
+E:\Coforge\Day-7\AreaOfShapes\AreaOfShapes\obj\Debug\AreaOfShapes.pdb

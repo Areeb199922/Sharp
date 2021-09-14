@@ -1,0 +1,7 @@
+E:\Coforge\Day-7\CollectionExampleTwo\CollectionExampleTwo\bin\Debug\CollectionExampleTwo.exe.config
+E:\Coforge\Day-7\CollectionExampleTwo\CollectionExampleTwo\bin\Debug\CollectionExampleTwo.exe
+E:\Coforge\Day-7\CollectionExampleTwo\CollectionExampleTwo\bin\Debug\CollectionExampleTwo.pdb
+E:\Coforge\Day-7\CollectionExampleTwo\CollectionExampleTwo\obj\Debug\CollectionExampleTwo.csproj.AssemblyReference.cache
+E:\Coforge\Day-7\CollectionExampleTwo\CollectionExampleTwo\obj\Debug\CollectionExampleTwo.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-7\CollectionExampleTwo\CollectionExampleTwo\obj\Debug\CollectionExampleTwo.exe
+E:\Coforge\Day-7\CollectionExampleTwo\CollectionExampleTwo\obj\Debug\CollectionExampleTwo.pdb

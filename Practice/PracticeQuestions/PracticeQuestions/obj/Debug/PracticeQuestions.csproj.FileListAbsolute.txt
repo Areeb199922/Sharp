@@ -1,0 +1,7 @@
+E:\Coforge\Practice\PracticeQuestions\PracticeQuestions\bin\Debug\PracticeQuestions.exe.config
+E:\Coforge\Practice\PracticeQuestions\PracticeQuestions\bin\Debug\PracticeQuestions.exe
+E:\Coforge\Practice\PracticeQuestions\PracticeQuestions\bin\Debug\PracticeQuestions.pdb
+E:\Coforge\Practice\PracticeQuestions\PracticeQuestions\obj\Debug\PracticeQuestions.csproj.AssemblyReference.cache
+E:\Coforge\Practice\PracticeQuestions\PracticeQuestions\obj\Debug\PracticeQuestions.csproj.CoreCompileInputs.cache
+E:\Coforge\Practice\PracticeQuestions\PracticeQuestions\obj\Debug\PracticeQuestions.exe
+E:\Coforge\Practice\PracticeQuestions\PracticeQuestions\obj\Debug\PracticeQuestions.pdb

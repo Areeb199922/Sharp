@@ -1,0 +1,7 @@
+E:\Coforge\Day-1\FirstConApp\FirstConApp\bin\Debug\FirstConApp.exe.config
+E:\Coforge\Day-1\FirstConApp\FirstConApp\bin\Debug\FirstConApp.exe
+E:\Coforge\Day-1\FirstConApp\FirstConApp\bin\Debug\FirstConApp.pdb
+E:\Coforge\Day-1\FirstConApp\FirstConApp\obj\Debug\FirstConApp.csproj.AssemblyReference.cache
+E:\Coforge\Day-1\FirstConApp\FirstConApp\obj\Debug\FirstConApp.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-1\FirstConApp\FirstConApp\obj\Debug\FirstConApp.exe
+E:\Coforge\Day-1\FirstConApp\FirstConApp\obj\Debug\FirstConApp.pdb

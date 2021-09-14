@@ -1,0 +1,7 @@
+E:\Coforge\Day-7\EmpHT\EmpHT\bin\Debug\EmpHT.exe.config
+E:\Coforge\Day-7\EmpHT\EmpHT\bin\Debug\EmpHT.exe
+E:\Coforge\Day-7\EmpHT\EmpHT\bin\Debug\EmpHT.pdb
+E:\Coforge\Day-7\EmpHT\EmpHT\obj\Debug\EmpHT.csproj.AssemblyReference.cache
+E:\Coforge\Day-7\EmpHT\EmpHT\obj\Debug\EmpHT.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-7\EmpHT\EmpHT\obj\Debug\EmpHT.exe
+E:\Coforge\Day-7\EmpHT\EmpHT\obj\Debug\EmpHT.pdb

@@ -1,0 +1,5 @@
+E:\Coforge\Day-7\AreaCalLib\AreaCalLib\bin\Debug\AreaCalLib.dll
+E:\Coforge\Day-7\AreaCalLib\AreaCalLib\bin\Debug\AreaCalLib.pdb
+E:\Coforge\Day-7\AreaCalLib\AreaCalLib\obj\Debug\AreaCalLib.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-7\AreaCalLib\AreaCalLib\obj\Debug\AreaCalLib.dll
+E:\Coforge\Day-7\AreaCalLib\AreaCalLib\obj\Debug\AreaCalLib.pdb

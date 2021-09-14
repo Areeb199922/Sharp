@@ -1,0 +1,7 @@
+E:\Coforge\Day-6\LaptopSellDesk\LaptopSellDesk\bin\Debug\LaptopSellDesk.exe.config
+E:\Coforge\Day-6\LaptopSellDesk\LaptopSellDesk\bin\Debug\LaptopSellDesk.exe
+E:\Coforge\Day-6\LaptopSellDesk\LaptopSellDesk\bin\Debug\LaptopSellDesk.pdb
+E:\Coforge\Day-6\LaptopSellDesk\LaptopSellDesk\obj\Debug\LaptopSellDesk.csproj.AssemblyReference.cache
+E:\Coforge\Day-6\LaptopSellDesk\LaptopSellDesk\obj\Debug\LaptopSellDesk.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-6\LaptopSellDesk\LaptopSellDesk\obj\Debug\LaptopSellDesk.exe
+E:\Coforge\Day-6\LaptopSellDesk\LaptopSellDesk\obj\Debug\LaptopSellDesk.pdb

@@ -1,0 +1,7 @@
+E:\Coforge\Practice\LinqToSQLMusic\LinqToSQLMusic\bin\Debug\LinqToSQLMusic.exe.config
+E:\Coforge\Practice\LinqToSQLMusic\LinqToSQLMusic\bin\Debug\LinqToSQLMusic.exe
+E:\Coforge\Practice\LinqToSQLMusic\LinqToSQLMusic\bin\Debug\LinqToSQLMusic.pdb
+E:\Coforge\Practice\LinqToSQLMusic\LinqToSQLMusic\obj\Debug\LinqToSQLMusic.csproj.AssemblyReference.cache
+E:\Coforge\Practice\LinqToSQLMusic\LinqToSQLMusic\obj\Debug\LinqToSQLMusic.csproj.CoreCompileInputs.cache
+E:\Coforge\Practice\LinqToSQLMusic\LinqToSQLMusic\obj\Debug\LinqToSQLMusic.exe
+E:\Coforge\Practice\LinqToSQLMusic\LinqToSQLMusic\obj\Debug\LinqToSQLMusic.pdb

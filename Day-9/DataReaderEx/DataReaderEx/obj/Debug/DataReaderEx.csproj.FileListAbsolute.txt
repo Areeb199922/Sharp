@@ -1,0 +1,7 @@
+E:\Coforge\Day-9\DataReaderEx\DataReaderEx\bin\Debug\DataReaderEx.exe.config
+E:\Coforge\Day-9\DataReaderEx\DataReaderEx\bin\Debug\DataReaderEx.exe
+E:\Coforge\Day-9\DataReaderEx\DataReaderEx\bin\Debug\DataReaderEx.pdb
+E:\Coforge\Day-9\DataReaderEx\DataReaderEx\obj\Debug\DataReaderEx.csproj.AssemblyReference.cache
+E:\Coforge\Day-9\DataReaderEx\DataReaderEx\obj\Debug\DataReaderEx.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-9\DataReaderEx\DataReaderEx\obj\Debug\DataReaderEx.exe
+E:\Coforge\Day-9\DataReaderEx\DataReaderEx\obj\Debug\DataReaderEx.pdb

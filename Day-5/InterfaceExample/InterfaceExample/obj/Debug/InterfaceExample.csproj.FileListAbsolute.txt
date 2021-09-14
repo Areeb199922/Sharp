@@ -1,0 +1,7 @@
+E:\Coforge\Day-5\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.exe.config
+E:\Coforge\Day-5\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.exe
+E:\Coforge\Day-5\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.pdb
+E:\Coforge\Day-5\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.csproj.AssemblyReference.cache
+E:\Coforge\Day-5\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-5\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.exe
+E:\Coforge\Day-5\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.pdb

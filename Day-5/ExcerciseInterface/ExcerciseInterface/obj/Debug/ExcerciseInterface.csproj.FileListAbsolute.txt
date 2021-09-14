@@ -1,0 +1,7 @@
+E:\Coforge\Day-5\ExcerciseInterface\ExcerciseInterface\bin\Debug\ExcerciseInterface.exe.config
+E:\Coforge\Day-5\ExcerciseInterface\ExcerciseInterface\bin\Debug\ExcerciseInterface.exe
+E:\Coforge\Day-5\ExcerciseInterface\ExcerciseInterface\bin\Debug\ExcerciseInterface.pdb
+E:\Coforge\Day-5\ExcerciseInterface\ExcerciseInterface\obj\Debug\ExcerciseInterface.csproj.AssemblyReference.cache
+E:\Coforge\Day-5\ExcerciseInterface\ExcerciseInterface\obj\Debug\ExcerciseInterface.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-5\ExcerciseInterface\ExcerciseInterface\obj\Debug\ExcerciseInterface.exe
+E:\Coforge\Day-5\ExcerciseInterface\ExcerciseInterface\obj\Debug\ExcerciseInterface.pdb

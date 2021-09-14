@@ -1,0 +1,10 @@
+E:\Coforge\Day-7\ConAppHRM\ConAppHRM\bin\Debug\ConAppHRM.exe.config
+E:\Coforge\Day-7\ConAppHRM\ConAppHRM\bin\Debug\ConAppHRM.exe
+E:\Coforge\Day-7\ConAppHRM\ConAppHRM\bin\Debug\ConAppHRM.pdb
+E:\Coforge\Day-7\ConAppHRM\ConAppHRM\bin\Debug\EmpLib.dll
+E:\Coforge\Day-7\ConAppHRM\ConAppHRM\bin\Debug\EmpLib.pdb
+E:\Coforge\Day-7\ConAppHRM\ConAppHRM\obj\Debug\ConAppHRM.csproj.AssemblyReference.cache
+E:\Coforge\Day-7\ConAppHRM\ConAppHRM\obj\Debug\ConAppHRM.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-7\ConAppHRM\ConAppHRM\obj\Debug\ConAppHRM.csproj.CopyComplete
+E:\Coforge\Day-7\ConAppHRM\ConAppHRM\obj\Debug\ConAppHRM.exe
+E:\Coforge\Day-7\ConAppHRM\ConAppHRM\obj\Debug\ConAppHRM.pdb

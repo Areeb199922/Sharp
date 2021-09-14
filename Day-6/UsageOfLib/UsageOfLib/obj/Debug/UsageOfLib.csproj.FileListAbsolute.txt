@@ -1,0 +1,10 @@
+E:\Coforge\Day-6\UsageOfLib\UsageOfLib\bin\Debug\UsageOfLib.exe.config
+E:\Coforge\Day-6\UsageOfLib\UsageOfLib\bin\Debug\UsageOfLib.exe
+E:\Coforge\Day-6\UsageOfLib\UsageOfLib\bin\Debug\UsageOfLib.pdb
+E:\Coforge\Day-6\UsageOfLib\UsageOfLib\bin\Debug\CalcLib.dll
+E:\Coforge\Day-6\UsageOfLib\UsageOfLib\bin\Debug\CalcLib.pdb
+E:\Coforge\Day-6\UsageOfLib\UsageOfLib\obj\Debug\UsageOfLib.csproj.AssemblyReference.cache
+E:\Coforge\Day-6\UsageOfLib\UsageOfLib\obj\Debug\UsageOfLib.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-6\UsageOfLib\UsageOfLib\obj\Debug\UsageOfLib.csproj.CopyComplete
+E:\Coforge\Day-6\UsageOfLib\UsageOfLib\obj\Debug\UsageOfLib.exe
+E:\Coforge\Day-6\UsageOfLib\UsageOfLib\obj\Debug\UsageOfLib.pdb

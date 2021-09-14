@@ -1,0 +1,7 @@
+E:\Coforge\Day-2\ConApp2\ConApp2\bin\Debug\ConApp2.exe.config
+E:\Coforge\Day-2\ConApp2\ConApp2\bin\Debug\ConApp2.exe
+E:\Coforge\Day-2\ConApp2\ConApp2\bin\Debug\ConApp2.pdb
+E:\Coforge\Day-2\ConApp2\ConApp2\obj\Debug\ConApp2.csproj.AssemblyReference.cache
+E:\Coforge\Day-2\ConApp2\ConApp2\obj\Debug\ConApp2.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-2\ConApp2\ConApp2\obj\Debug\ConApp2.exe
+E:\Coforge\Day-2\ConApp2\ConApp2\obj\Debug\ConApp2.pdb

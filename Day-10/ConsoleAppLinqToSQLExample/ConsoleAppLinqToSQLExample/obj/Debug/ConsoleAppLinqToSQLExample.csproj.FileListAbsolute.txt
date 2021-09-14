@@ -1,0 +1,7 @@
+E:\Coforge\Day-10\ConsoleAppLinqToSQLExample\ConsoleAppLinqToSQLExample\bin\Debug\ConsoleAppLinqToSQLExample.exe.config
+E:\Coforge\Day-10\ConsoleAppLinqToSQLExample\ConsoleAppLinqToSQLExample\bin\Debug\ConsoleAppLinqToSQLExample.exe
+E:\Coforge\Day-10\ConsoleAppLinqToSQLExample\ConsoleAppLinqToSQLExample\bin\Debug\ConsoleAppLinqToSQLExample.pdb
+E:\Coforge\Day-10\ConsoleAppLinqToSQLExample\ConsoleAppLinqToSQLExample\obj\Debug\ConsoleAppLinqToSQLExample.csproj.AssemblyReference.cache
+E:\Coforge\Day-10\ConsoleAppLinqToSQLExample\ConsoleAppLinqToSQLExample\obj\Debug\ConsoleAppLinqToSQLExample.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-10\ConsoleAppLinqToSQLExample\ConsoleAppLinqToSQLExample\obj\Debug\ConsoleAppLinqToSQLExample.exe
+E:\Coforge\Day-10\ConsoleAppLinqToSQLExample\ConsoleAppLinqToSQLExample\obj\Debug\ConsoleAppLinqToSQLExample.pdb

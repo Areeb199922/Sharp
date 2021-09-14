@@ -1,0 +1,7 @@
+E:\Coforge\Day-10\LinqExTwo\LinqExTwo\bin\Debug\LinqExTwo.exe.config
+E:\Coforge\Day-10\LinqExTwo\LinqExTwo\bin\Debug\LinqExTwo.exe
+E:\Coforge\Day-10\LinqExTwo\LinqExTwo\bin\Debug\LinqExTwo.pdb
+E:\Coforge\Day-10\LinqExTwo\LinqExTwo\obj\Debug\LinqExTwo.csproj.AssemblyReference.cache
+E:\Coforge\Day-10\LinqExTwo\LinqExTwo\obj\Debug\LinqExTwo.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-10\LinqExTwo\LinqExTwo\obj\Debug\LinqExTwo.exe
+E:\Coforge\Day-10\LinqExTwo\LinqExTwo\obj\Debug\LinqExTwo.pdb

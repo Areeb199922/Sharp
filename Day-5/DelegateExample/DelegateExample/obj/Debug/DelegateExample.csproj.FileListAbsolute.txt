@@ -1,0 +1,7 @@
+E:\Coforge\Day-5\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe.config
+E:\Coforge\Day-5\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe
+E:\Coforge\Day-5\DelegateExample\DelegateExample\bin\Debug\DelegateExample.pdb
+E:\Coforge\Day-5\DelegateExample\DelegateExample\obj\Debug\DelegateExample.csproj.AssemblyReference.cache
+E:\Coforge\Day-5\DelegateExample\DelegateExample\obj\Debug\DelegateExample.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-5\DelegateExample\DelegateExample\obj\Debug\DelegateExample.exe
+E:\Coforge\Day-5\DelegateExample\DelegateExample\obj\Debug\DelegateExample.pdb

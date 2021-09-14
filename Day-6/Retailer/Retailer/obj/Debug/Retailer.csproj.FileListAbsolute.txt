@@ -1,0 +1,7 @@
+E:\Coforge\Day-6\Retailer\Retailer\bin\Debug\Retailer.exe.config
+E:\Coforge\Day-6\Retailer\Retailer\bin\Debug\Retailer.exe
+E:\Coforge\Day-6\Retailer\Retailer\bin\Debug\Retailer.pdb
+E:\Coforge\Day-6\Retailer\Retailer\obj\Debug\Retailer.csproj.AssemblyReference.cache
+E:\Coforge\Day-6\Retailer\Retailer\obj\Debug\Retailer.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-6\Retailer\Retailer\obj\Debug\Retailer.exe
+E:\Coforge\Day-6\Retailer\Retailer\obj\Debug\Retailer.pdb

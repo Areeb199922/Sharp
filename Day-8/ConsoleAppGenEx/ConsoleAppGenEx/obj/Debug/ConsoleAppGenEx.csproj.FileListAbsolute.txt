@@ -1,0 +1,7 @@
+E:\Coforge\Day-8\ConsoleAppGenEx\ConsoleAppGenEx\bin\Debug\ConsoleAppGenEx.exe.config
+E:\Coforge\Day-8\ConsoleAppGenEx\ConsoleAppGenEx\bin\Debug\ConsoleAppGenEx.exe
+E:\Coforge\Day-8\ConsoleAppGenEx\ConsoleAppGenEx\bin\Debug\ConsoleAppGenEx.pdb
+E:\Coforge\Day-8\ConsoleAppGenEx\ConsoleAppGenEx\obj\Debug\ConsoleAppGenEx.csproj.AssemblyReference.cache
+E:\Coforge\Day-8\ConsoleAppGenEx\ConsoleAppGenEx\obj\Debug\ConsoleAppGenEx.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-8\ConsoleAppGenEx\ConsoleAppGenEx\obj\Debug\ConsoleAppGenEx.exe
+E:\Coforge\Day-8\ConsoleAppGenEx\ConsoleAppGenEx\obj\Debug\ConsoleAppGenEx.pdb

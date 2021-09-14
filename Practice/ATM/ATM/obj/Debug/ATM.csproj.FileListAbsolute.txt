@@ -1,0 +1,7 @@
+E:\Coforge\Practice\ATM\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+E:\Coforge\Practice\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+E:\Coforge\Practice\ATM\ATM\bin\Debug\ATM.exe.config
+E:\Coforge\Practice\ATM\ATM\bin\Debug\ATM.exe
+E:\Coforge\Practice\ATM\ATM\bin\Debug\ATM.pdb
+E:\Coforge\Practice\ATM\ATM\obj\Debug\ATM.exe
+E:\Coforge\Practice\ATM\ATM\obj\Debug\ATM.pdb

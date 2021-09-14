@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Music" Class="PlaylistDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-IFH8EL7\SQLEXPRESS;Initial Catalog=Music;Integrated Security=True" SettingsObjectName="LinqToSQLMusic.Properties.Settings" SettingsPropertyName="MusicConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Songs" Member="Songs">
+    <Type Name="Song">
+      <Column Name="SerialNum" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="SongName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ArtistName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ReleaseDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

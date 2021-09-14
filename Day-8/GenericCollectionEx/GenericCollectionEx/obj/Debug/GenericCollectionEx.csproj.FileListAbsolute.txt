@@ -1,0 +1,7 @@
+E:\Coforge\Day-8\GenericCollectionEx\GenericCollectionEx\bin\Debug\GenericCollectionEx.exe.config
+E:\Coforge\Day-8\GenericCollectionEx\GenericCollectionEx\bin\Debug\GenericCollectionEx.exe
+E:\Coforge\Day-8\GenericCollectionEx\GenericCollectionEx\bin\Debug\GenericCollectionEx.pdb
+E:\Coforge\Day-8\GenericCollectionEx\GenericCollectionEx\obj\Debug\GenericCollectionEx.csproj.AssemblyReference.cache
+E:\Coforge\Day-8\GenericCollectionEx\GenericCollectionEx\obj\Debug\GenericCollectionEx.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-8\GenericCollectionEx\GenericCollectionEx\obj\Debug\GenericCollectionEx.exe
+E:\Coforge\Day-8\GenericCollectionEx\GenericCollectionEx\obj\Debug\GenericCollectionEx.pdb

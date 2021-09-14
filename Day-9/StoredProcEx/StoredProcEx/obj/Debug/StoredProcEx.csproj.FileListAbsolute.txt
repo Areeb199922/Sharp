@@ -1,0 +1,7 @@
+E:\Coforge\Day-9\StoredProcEx\StoredProcEx\bin\Debug\StoredProcEx.exe.config
+E:\Coforge\Day-9\StoredProcEx\StoredProcEx\bin\Debug\StoredProcEx.exe
+E:\Coforge\Day-9\StoredProcEx\StoredProcEx\bin\Debug\StoredProcEx.pdb
+E:\Coforge\Day-9\StoredProcEx\StoredProcEx\obj\Debug\StoredProcEx.csproj.AssemblyReference.cache
+E:\Coforge\Day-9\StoredProcEx\StoredProcEx\obj\Debug\StoredProcEx.csproj.CoreCompileInputs.cache
+E:\Coforge\Day-9\StoredProcEx\StoredProcEx\obj\Debug\StoredProcEx.exe
+E:\Coforge\Day-9\StoredProcEx\StoredProcEx\obj\Debug\StoredProcEx.pdb
